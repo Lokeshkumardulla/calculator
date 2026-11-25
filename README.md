@@ -1,39 +1,30 @@
-# Calculator
+# JavaScript Calculator
 
-A simple browser-based calculator built with HTML, CSS, and JavaScript. It provides a clean interface for performing everyday arithmetic calculations.
+A browser-based calculator built with **HTML, CSS and JavaScript**. It supports basic arithmetic through an on-screen keypad and keyboard input.
 
 ## Features
+- Addition, subtraction, multiplication and division
+- Decimal number input
+- Clear and backspace controls
+- Keyboard support
+- Error handling for invalid expressions
 
-- Browser-based interface
-- Calculator layout styled with CSS
-- JavaScript-powered interactions
+## Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Project structure
+## Run Locally
+1. Clone: `git clone https://github.com/Lokeshkumardulla/calculator.git`
+2. Open `index.html` in a modern browser.
 
-```text
-calculator/
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
+No dependencies or build tools are required.
 
-## Run locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Lokeshkumardulla/calculator.git
-   ```
-2. Open `index.html` in a modern web browser.
-
-No installation or backend server is required.
-
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
+## How to Use
+- Select digits and an arithmetic operator.
+- Press `=` to calculate.
+- Use `C` to clear or backspace to remove the last character.
+- Keyboard input is also supported.
 
 ## Author
-
-[Lokeshkumardulla](https://github.com/Lokeshkumardulla)
+**Lokesh Kumar** · [GitHub Profile](https://github.com/Lokeshkumardulla)
